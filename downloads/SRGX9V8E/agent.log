@@ -1,0 +1,40 @@
+
+2019-05-24 11:15:53 : 
+
+[*] Agent info:
+  nonce           	8858072911116314
+  jitter          	0.7
+  servers         	None
+  internal_ip     	192.168.226.1 fe80::9442:f8f3:5b23:22d1 192.168.153.1
+                                fe80::78a5:53be:b208:43ea 192.168.252.233 fe80::a41d:e79e:d3d7:49a8
+                                169.254.182.30 fe80::4d72:dc5a:5819:b61e
+  working_hours   	
+  session_key     	Jf&h<5)(KMq#\d^_2;C9EGa`-bgc}p0n
+  children        	None
+  checkin_time    	2019-05-24 11:15:53
+  hostname        	LAMEDIM-LT
+  id              	2
+  delay           	8
+  username        	LAMEDIM-LT\User
+  kill_date       	
+  parent          	None
+  process_name    	powershell_ise
+  listener        	http
+  process_id      	12280
+  profile         	/aduin/gut.php,/nuws.php,/lugin/pruccess.php |Mozilla/5.0 (X11; Linux
+                                x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.75
+                                Safari/537.36
+  os_details      	Microsoft Windows 10 Home
+  lost_limit      	0
+  taskings        	None
+  name            	SRGX9V8E
+  language        	powershell
+  external_ip     	192.168.153.1
+  session_id      	SRGX9V8E
+  lastseen_time   	2019-05-24 11:15:53
+  language_version	5
+  high_integrity  	0
+
+
+[+] Agent SRGX9V8E now active:
+

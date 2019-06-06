@@ -1,0 +1,50 @@
+
+2019-05-29 15:02:49 : 
+
+[*] Agent info:
+  nonce           	7352469059417835
+  jitter          	0.6
+  servers         	None
+  internal_ip     	192.168.153.140
+  working_hours   	
+  session_key     	C>ZqecEdQ*b[sf#}\-y!]4tY/x`GR&g@
+  children        	None
+  checkin_time    	2019-05-29 15:02:49
+  hostname        	WIN-JEQCV2C1G8I
+  id              	1
+  delay           	6
+  username        	WIN-JEQCV2C1G8I\User
+  kill_date       	
+  parent          	None
+  process_name    	powershell
+  listener        	http
+  process_id      	3472
+  profile         	/aduin/gut.php,/nuws.php,/lugin/pruccess.php |Mozilla/5.0 (X11; Linux
+                                x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.75
+                                Safari/537.36
+  os_details      	Microsoft Windows 7 Professional
+  lost_limit      	0
+  taskings        	None
+  name            	35FA4BD6
+  language        	powershell
+  external_ip     	192.168.153.140
+  session_id      	35FA4BD6
+  lastseen_time   	2019-05-29 15:02:49
+  language_version	2
+  high_integrity  	0
+
+
+[+] Agent 35FA4BD6 now active:
+
+
+2019-05-29 15:03:25 : 
+[*] Agent renamed from 35FA4BD6 to win7
+
+2019-05-29 15:03:30 : 
+[*] Agent renamed from 35FA4BD6 to win
+
+2019-05-29 15:04:38 : 
+Tasked agent to run module powershell/privesc/bypassuac_env
+
+2019-05-29 15:04:45 : 
+Job started: 3K96G7

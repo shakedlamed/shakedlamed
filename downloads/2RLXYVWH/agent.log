@@ -1,0 +1,50 @@
+
+2019-05-25 22:56:52 : 
+
+[*] Agent info:
+  nonce           	0360420101158285
+  jitter          	0.6
+  servers         	None
+  internal_ip     	192.168.153.140
+  working_hours   	
+  session_key     	bx=+45)EAW~}*1TFYi@[$tgpZMO#_lK%
+  children        	None
+  checkin_time    	2019-05-25 22:56:52
+  hostname        	WIN-JEQCV2C1G8I
+  id              	2
+  delay           	6
+  username        	WIN-JEQCV2C1G8I\User
+  kill_date       	
+  parent          	None
+  process_name    	powershell_ise
+  listener        	http
+  process_id      	1972
+  profile         	/aduin/gut.php,/nuws.php,/lugin/pruccess.php |Mozilla/5.0 (X11; Linux
+                                x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.75
+                                Safari/537.36
+  os_details      	Microsoft Windows 7 Professional
+  lost_limit      	0
+  taskings        	None
+  name            	2RLXYVWH
+  language        	powershell
+  external_ip     	192.168.153.140
+  session_id      	2RLXYVWH
+  lastseen_time   	2019-05-25 22:56:52
+  language_version	2
+  high_integrity  	0
+
+
+[+] Agent 2RLXYVWH now active:
+
+
+2019-05-26 09:14:22 : 
+Tasked agent to run module powershell/privesc/bypassuac_env
+
+2019-05-26 09:14:25 : 
+Job started: GPXW3S
+
+2019-05-26 09:17:02 : 
+Tasked agent to run module powershell/privesc/bypassuac
+
+2019-05-26 09:17:07 : 
+Job started: UB2R65

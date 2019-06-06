@@ -1,0 +1,41 @@
+
+2019-05-27 20:33:49 : 
+
+[*] Agent info:
+  nonce           	1917877838537482
+  jitter          	0.6
+  servers         	None
+  internal_ip     	192.168.153.140
+  working_hours   	
+  session_key     	Az}|Li&fFV?D4prU8>e1#+OMos$%g5,]
+  children        	None
+  checkin_time    	2019-05-27 20:33:48
+  hostname        	WIN-JEQCV2C1G8I
+  id              	2
+  delay           	6
+  username        	WIN-JEQCV2C1G8I\User
+  kill_date       	
+  parent          	None
+  process_name    	powershell
+  listener        	http
+  process_id      	2104
+  profile         	/aduin/gut.php,/nuws.php,/lugin/pruccess.php |Mozilla/5.0 (X11; Linux
+                                x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.75
+                                Safari/537.36
+  os_details      	Microsoft Windows 7 Professional
+  lost_limit      	0
+  taskings        	None
+  name            	5LWG6T8X
+  language        	powershell
+  external_ip     	192.168.153.140
+  session_id      	5LWG6T8X
+  lastseen_time   	2019-05-27 20:33:48
+  language_version	2
+  high_integrity  	0
+
+
+[+] Agent 5LWG6T8X now active:
+
+
+2019-05-28 19:01:00 : 
+[!] Agent 5LWG6T8X exiting

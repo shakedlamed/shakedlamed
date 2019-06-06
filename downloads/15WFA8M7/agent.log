@@ -1,0 +1,40 @@
+
+2019-05-17 12:08:12 : 
+
+[*] Agent info:
+  nonce           	3067358106815980
+  jitter          	0.0
+  servers         	None
+  internal_ip     	192.168.226.1 fe80::9442:f8f3:5b23:22d1 192.168.153.1
+                                fe80::78a5:53be:b208:43ea 192.168.252.205 fe80::a41d:e79e:d3d7:49a8
+                                169.254.182.30 fe80::4d72:dc5a:5819:b61e
+  working_hours   	
+  session_key     	()/An$_@14rLF`pw3iS.a^BZ{2E|7]\}
+  children        	None
+  checkin_time    	2019-05-17 12:08:11
+  hostname        	LAMEDIM-LT
+  id              	1
+  delay           	8
+  username        	LAMEDIM-LT\User
+  kill_date       	
+  parent          	None
+  process_name    	powershell_ise
+  listener        	http
+  process_id      	13000
+  profile         	/aduin/gut.php,/nuws.php,/lugin/pruccess.php |Mozilla/5.0 (X11; Linux
+                                x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.75
+                                Safari/537.36
+  os_details      	Microsoft Windows 10 Home
+  lost_limit      	0
+  taskings        	None
+  name            	15WFA8M7
+  language        	powershell
+  external_ip     	192.168.252.205
+  session_id      	15WFA8M7
+  lastseen_time   	2019-05-17 12:08:11
+  language_version	5
+  high_integrity  	0
+
+
+[+] Agent 15WFA8M7 now active:
+

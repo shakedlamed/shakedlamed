@@ -1,0 +1,43 @@
+
+2019-06-03 10:30:33 : 
+
+[*] Agent info:
+  nonce           	4496656452492088
+  jitter          	0.6
+  servers         	None
+  internal_ip     	192.168.153.140
+  working_hours   	
+  session_key     	;b&iJzI,.BC{2ur^x[_l@Oh5EdVXG+0p
+  children        	None
+  checkin_time    	2019-06-03 10:30:33
+  hostname        	WIN-JEQCV2C1G8I
+  id              	1
+  delay           	0
+  username        	WIN-JEQCV2C1G8I\User
+  kill_date       	
+  parent          	None
+  process_name    	powershell_ise
+  listener        	http
+  process_id      	3716
+  profile         	/admun/gut.php,/nuws.php,/lugin/prucess.php|Chrome/73.0.3683.75
+                                Safari/537.36
+  os_details      	Microsoft Windows 7 Professional
+  lost_limit      	60
+  taskings        	None
+  name            	NRUMCX8S
+  language        	powershell
+  external_ip     	192.168.153.140
+  session_id      	NRUMCX8S
+  lastseen_time   	2019-06-03 10:30:33
+  language_version	2
+  high_integrity  	0
+
+
+[+] Agent NRUMCX8S now active:
+
+
+2019-06-03 10:31:22 : 
+Tasked agent to run module powershell/privesc/bypassuac_fodhelper
+
+2019-06-03 10:31:22 : 
+Job started: FD1M2C
