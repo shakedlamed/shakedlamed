@@ -127,5 +127,4 @@ else
   # send red alert if agent isn't installed
   Send-SlackMessage -Text  "SentinelONE Agent isn't Installed" -Color "#c90000" -Icon ":red_circle:"
 }
-Start-Sleep -Seconds 5
-Start-ScheduledTask -TaskName "Check S1 Agent Status"
+
